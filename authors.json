@@ -1,0 +1,158 @@
+[
+  {
+    "author": "Quincy Larson",
+    "image": "avatars/Quincy-Larson-photo.jpg",
+    "url": "https://www.freecodecamp.org/news/author/quincy/",
+    "bio": "The teacher who founded freeCodeCamp.org."
+  },
+  {
+    "author": "Jessica Wilkins",
+    "image": "avatars/jessica-wilkins-gravatar.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/devAndMusician/",
+    "bio": "I am a musician and a programmer."
+  },
+  {
+    "author": "Ihechikara Vincent Abba",
+    "image": "avatars/IMG_20211016_160158_231.jpg",
+    "url": "https://www.freecodecamp.org/news/author/Ihechikara/",
+    "bio": "This author's bio can be found in his articles!"
+  },
+  {
+    "author": "Jennifer Bland",
+    "image": "avatars/jennifer-bland-gravatar.jpeg",
+    "url": "https://www.jenniferbland.com/",
+    "bio": "I am a Senior Software Engineer. Google Developers Expert. Entrepreneur. Mountain Climber. Neil Diamond fanatic. MBA grad. World traveler."
+  },
+  {
+    "author": "Kolade Chris",
+    "image": "avatars/kolade-recent.jpg",
+    "url": "https://www.freecodecamp.org/news/author/koladechris/",
+    "bio": "Web developer and technical writer focusing on frontend technologies."
+  },
+  {
+    "author": "Joel Olawanle",
+    "image": "avatars/1654890413623.jpg",
+    "url": "https://www.freecodecamp.org/news/author/olawanlejoel/",
+    "bio": "Frontend Developer & Technical Writer"
+  },
+  {
+    "author": "Beau Carnes",
+    "image": "avatars/beau-carnes-gravatar.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/beaucarnes/",
+    "bio": "I'm a teacher and developer with freeCodeCamp.org. I run the freeCodeCamp.org YouTube channel."
+  },
+  {
+    "author": "Njong Emy",
+    "image": "avatars/pfp.jpeg",
+    "url": "https://dev.to/njong_emy",
+    "bio": "Computer Engineering undergrad, focusing on frontend development. HTML/CSS/Boostrap/JS/Tailwind. Canva addict too :)"
+  },
+  {
+    "author": "Naomi Carrigan",
+    "image": "avatars/profile.png",
+    "url": "https://www.freecodecamp.org/news/author/nhcarrigan/",
+    "bio": ""
+  },
+  {
+    "author": "Dillion Megida",
+    "image": "avatars/deee.jpg",
+    "url": "https://www.freecodecamp.org/news/author/dillionmegida/",
+    "bio": "Developer Advocate and Content Creator passionate about sharing my knowledge on Tech. I teach JavaScript / ReactJS / NodeJS / React Frameworks / TypeScript / et al"
+  },
+  {
+    "author": "TAPAS ADHIKARY",
+    "image": "avatars/4AE84473-6762-4606-BBD3-A77E1BBE1188.jpeg",
+    "url": "https://tapasadhikary.com/",
+    "bio": "Writer . YouTuber . Creator . Mentor"
+  },
+  {
+    "author": "Zaira Hira",
+    "image": "avatars/DSC_0649.jpg",
+    "url": "https://www.freecodecamp.org/news/author/zaira/",
+    "bio": "I am a DevOps Consultant and writer at FreeCodeCamp. I aim to provide easy and to-the-point content for Techies!"
+  },
+  {
+    "author": "Dionysia Lemonaki",
+    "image": "avatars/IMG_20210414_073834_736--1-.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/dionysialemonaki/",
+    "bio": "Learning something new everyday and writing about it"
+  },
+  {
+    "author": "Colby Fayock",
+    "image": "avatars/star-wars-hug-yellow-cropped.png",
+    "url": "https://www.freecodecamp.org/news/author/colbyfayock/",
+    "bio": "A Front End Engineer and UX Designer that's passionate about tackling challenges that can make the world a better place. https://www.colbyfayock.com/newsletter/"
+  },
+  {
+    "author": "Megan Kaczanowski",
+    "image": "avatars/Screen-Shot-2019-06-06-at-5.12.59-PM.png",
+    "url": "https://www.linkedin.com/in/megankaczanowski/",
+    "bio": "Threat Intelligence & Security @megansdoingfine"
+  },
+  {
+    "author": "Hillary Nyakundi",
+    "image": "avatars/WhatsApp_Image_2021-10-18_at_10.33.36_AM-removebg-preview.png",
+    "url": "https://www.freecodecamp.org/news/author/larymak/",
+    "bio": "Growing Developer || Python & Open-Source  || Tech Enthusiasts & Writer 'Every day is a learning Day'"
+  },
+  {
+    "author": "Shruti Kapoor",
+    "image": "avatars/1_-OiP6v1JTJWv0E8mVZBIFQ.jpeg",
+    "url": "https://shrutikapoor.dev/",
+    "bio": ""
+  },
+  {
+    "author": "Estefania Cassingena Navone",
+    "image": "avatars/YouTube-Channel-Icon--1-.png",
+    "url": "https://www.freecodecamp.org/news/author/estefaniacn/",
+    "bio": "Developer, technical writer, and content creator @freeCodeCamp. I run the freeCodeCamp.org Español YouTube channel."
+  },
+  {
+    "author": "Kris Koishigawa",
+    "image": "avatars/kris-author-image-cropped.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/scissorsneedfoodtoo/",
+    "bio": ""
+  },
+  {
+    "author": "Flavio Copes",
+    "image": "avatars/flavio-copes-gravatar.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/flaviocopes/",
+    "bio": ""
+  },
+  {
+    "author": "Dhawal Shah",
+    "image": "avatars/dhawal-shah.png",
+    "url": "https://www.dhaval-shah.com/",
+    "bio": "Founder of Class Central."
+  },
+  {
+    "author": "David Clinton",
+    "image": "avatars/DavidClinton.jpg",
+    "url": "https://www.pluralsight.com/authors/david-clinton",
+    "bio": "I'm an AWS solutions architect, Linux server professional, and author of books and Pluralsight courses on Linux, AWS, Docker, and IT security."
+  },
+  {
+    "author": "Andrew Brown",
+    "image": "avatars/andrewbrown.jpg",
+    "url": "https://www.freecodecamp.org/news/cto-andrew-brown-passed-dozens-of-cloud-certification-exams-freecodecamp-podcast-episode-120/",
+    "bio": "CEO of ExamPro I was previously the CTO of multiple startups. I'm now AWS Obsessed. I love Star Trek and Coconut Water"
+  },
+  {
+    "author": "Zubair Idris Aweda",
+    "image": "avatars/zubair-idris-aweda-gravatar.jpeg",
+    "url": "https://www.freecodecamp.org/news/author/Zubs/",
+    "bio": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in PHP, JavaScript, and other Web Development technologies."
+  },
+  {
+    "author": "Phoebe Voong-Fadel",
+    "image": "avatars/phoebe.jpeg",
+    "url": "https://www.thecodinghamster.com/",
+    "bio": "Front-end Web Developer. Mum of two. I love to cook and bake."
+  },
+  {
+    "author": "Lynn Zheng",
+    "image": "avatars/Seattle-Cherry.png",
+    "url": "https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/",
+    "bio": "SWE @ Salesforce | UChicago BS/MS in CS | Personal website: https://ruolinzheng08.github.io/ | YouTube: https://www.youtube.com/channel/UCZ2MeG5jTIqgzEMiByrIzsw"
+  }
+]
